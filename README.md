@@ -5,7 +5,7 @@ E-Commerce Back End
 Back end for a e-commerse website
 
 ### Screenshot
-
+![Endpoints](https://user-images.githubusercontent.com/98436010/176819899-e4b0c172-8c43-4b77-8556-e3b9a5162ba9.JPG)
 
 ### How to install 
 Use npm istall and then listen on localhost:3001
