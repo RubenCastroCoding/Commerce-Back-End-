@@ -1,9 +1,6 @@
 #### Title 
 E-Commerce Back End
 
-### License
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ### Description
 Back end for a e-commerse website
 
